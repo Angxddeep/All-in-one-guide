@@ -46,7 +46,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 nav:
-  - Home: 'Index.md'
+  - Home: 'Home.md'
   - Unlocking bootloader: 'Unlocking bootloader.md'
   - Rooting method: 'Root.md'
   - Flashing stock rom: 'Stock.md'
@@ -58,6 +58,8 @@ extra:
   social:
   - icon: fontawesome/brands/x-twitter
     link: https://x.com/Angxddeep
+  - icon: fontawesome/brands/mastodon
+    link: https://mastodon.social/@angaddeep 
   - icon: fontawesome/brands/github
     link: https://github.com/Angxddeep
 plugins:
