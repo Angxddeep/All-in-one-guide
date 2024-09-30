@@ -35,7 +35,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 nav:
-  - Home: 'Home.md'
+  - Getting started: 'index.md'
   - Unlocking bootloader: 'Unlocking bootloader.md'
   - Rooting method: 'Root.md'
   - Flashing stock rom: 'Stock.md'
