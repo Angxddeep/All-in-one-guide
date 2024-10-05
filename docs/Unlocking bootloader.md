@@ -22,7 +22,7 @@ hide:
 
 * Open the device settings > Tap on About phone > Scroll down and tap on MIUI version five times. This will unlock the developer options in your device, which can be located in “Additional Settings” tab.
 
-* So, Xiaomi has decided to make the unlocking process more difficult if you want to follow the new process you can go [here](https://xdaforums.com/t/how-to-unlock-bootloader-on-xiaomi-hyperos-all-devices.4654009/), meanwhile there is a neat hack to use the old method which will save you a whole lot of time. Follow this GitHub [Project](https://github.com/TheAirBlow/HyperSploit) and download the script for your particular Operating System from the [release](https://github.com/TheAirBlow/HyperSploit/releases) section.After this you can continue the next steps.
+**So, Xiaomi has decided to make the unlocking process more difficult if you want to follow the new process you can go [here](https://xdaforums.com/t/how-to-unlock-bootloader-on-xiaomi-hyperos-all-devices.4654009/), meanwhile there is a neat hack to use the old method which will save you a whole lot of time. Follow this GitHub [Project](https://github.com/TheAirBlow/HyperSploit) and download the script for your particular Operating System from the [release](https://github.com/TheAirBlow/HyperSploit/releases) section.After this you can continue the next steps.**
 
 !!! warning "New Method issues"
     
