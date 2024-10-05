@@ -40,6 +40,9 @@ nav:
   - Rooting method: 'Root.md'
   - Flashing stock rom: 'Stock.md'
   - Unbrick Guide: 'Unbrick.md'
+markdown_extensions:
+  - admonition
+
   
   # Additional configuration
 
