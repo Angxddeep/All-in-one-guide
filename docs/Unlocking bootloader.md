@@ -26,9 +26,9 @@ hide:
 
 !!! warning "New Method issues"
     
-    Just agree to MI user agreement in next step is you are not using the 
-    script to unlock bootloader. It will give error promiting you to 
-    use Xiaomi community app if you are not using the script above.
+    Just agree to MI user agreement in the next step is you are using the new method. 
+    Also, it may give an error promiting you to use Xiaomi community app if you 
+    are not using the script above.
 
 * In the Developer options, go to the “Mi Unlock status” and tap on “Add account and device” in order to authorize Xiaomi to unlock the device associated with the account. Note that it can take up to 168 hours to finish this, you will have to wait for the week before unlocking your bootloader.
 
