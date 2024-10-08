@@ -9,7 +9,7 @@ As new users are coming and choosing to flash custom ROMs or root their devices,
 
 Many things have been taken from old guides and I have just updated those and made a structured place to access them :).
 
-**These guides are made for <ins>POCO X4 GT / Redmi Note 11T Pro (+) / K50i (xaga)</ins>. I am not responsible if you choose to use them for other xiaomi devices and things don't go as expected.**
+**These guides are made on <ins>POCO X4 GT / Redmi Note 11T Pro (+) / K50i (xaga)</ins>. I am not responsible if things don't go as expected.**
 
 ## Click here to continue:
 
