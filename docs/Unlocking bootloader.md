@@ -24,11 +24,12 @@ hide:
 
 **So, Xiaomi has decided to make the unlocking process more difficult if you want to follow the new process you can go [here](https://xdaforums.com/t/how-to-unlock-bootloader-on-xiaomi-hyperos-all-devices.4654009/), meanwhile there is a neat hack to use the old method which will save you a whole lot of time. Follow this GitHub [Project](https://github.com/TheAirBlow/HyperSploit) and download the script for your particular Operating System from the [release](https://github.com/TheAirBlow/HyperSploit/releases) page. Make sure to read the [README.md](https://github.com/TheAirBlow/HyperSploit?tab=readme-ov-file#hypersploit) first. After this you can continue the next steps.**
 
-!!! warning "New Method issues"
-    
-    Just agree to MI user agreement in the next step is you are using the new method. 
-    Also, it may give an error promiting you to use Xiaomi community app if you 
-    are not using the script above.
+:::warning
+New Method issues
+
+Just agree to MI user agreement in the next step if you are using the new method.
+Also, it may give an error prompting you to use Xiaomi Community app if you are not using the script above.
+:::
 
 * In the Developer options, go to the “Mi Unlock status” and tap on “Add account and device” in order to authorize Xiaomi to unlock the device associated with the account. Note that it can take up to 168 hours to finish this, you will have to wait for the week before unlocking your bootloader.
 

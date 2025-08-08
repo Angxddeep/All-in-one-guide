@@ -20,8 +20,9 @@ MIUI Official Fastboot ROM Flashing Method by
 
 Get the latest fastboot ROM from the group by sending the command */fastboot xaga* or from [here](https://xmfirmwareupdater.com/hyperos/xaga/) but make sure the ROM which you're downloading is a fastboot ROM and not recovery.
 
-!!! warning
-    ROM must be extracted in C Drive without any subsequent sub folders.
+:::warning
+ROM must be extracted in C Drive without any subsequent sub folders.
+:::
 
 ## Installing Mi Flash tool:
 
@@ -29,10 +30,11 @@ Get the latest fastboot ROM from the group by sending the command */fastboot xag
 
 2. Run Mi Flash tool.
 
-!!! warning
-    If you get this error then just make a log folder in the unzipped directory of Mi Flash tool.
+:::warning
+If you get this error then just make a log folder in the unzipped directory of Mi Flash tool.
+:::
 
-![error](https://raw.githubusercontent.com/Angxddeep/All-in-one-guide/main/docs/images/miflasherror.png)
+![error](/img/images/miflasherror.png)
 
 ## Flashing Process:
 

@@ -1,3 +1,6 @@
 venv/
 public/*
-.obsidian/
+.obsidian/# Docusaurus
+.docusaurus/
+build/
+node_modules/

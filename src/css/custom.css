@@ -1,0 +1,57 @@
+/** Global theme overrides using a darker cyan theme with subtle gradient **/
+:root {
+  /* Primary palette (light mode) */
+  --ifm-color-primary: #0B6C73;    /* deep cyan */
+  --ifm-color-primary-dark: #095960;
+  --ifm-color-primary-darker: #07454A;
+  --ifm-color-primary-darkest: #05363A;
+  --ifm-color-primary-light: #0F7F87;
+  --ifm-color-primary-lighter: #12919A;
+  --ifm-color-primary-lightest: #18AAB5;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.06);
+
+  /* Subtle darker cyan gradient (reduced contrast across width) */
+  --site-gradient: linear-gradient(135deg, #05363A 0%, #0B6C73 60%, #12919A 100%);
+}
+
+[data-theme='dark'] {
+  /* Primary palette (dark mode — slightly lighter for contrast) */
+  --ifm-color-primary: #45C8D6;
+  --ifm-color-primary-dark: #2FB4C3;
+  --ifm-color-primary-darker: #249FAB;
+  --ifm-color-primary-darkest: #1E8791;
+  --ifm-color-primary-light: #67D3DE;
+  --ifm-color-primary-lighter: #86DDE6;
+  --ifm-color-primary-lightest: #B6ECF1;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Gradient application to key chrome elements */
+.navbar {
+  background-image: var(--site-gradient);
+}
+.navbar, .navbar a, .navbar__brand, .navbar__item {
+  color: #fff !important;
+}
+.footer {
+  background-image: var(--site-gradient);
+  color: #fff;
+}
+.hero--primary {
+  background-image: var(--site-gradient);
+}
+
+/* Optional: subtle gradient border at top for visual identity */
+:root body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  z-index: 1000;
+  background-image: var(--site-gradient);
+}

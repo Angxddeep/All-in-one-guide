@@ -29,8 +29,8 @@ hide:
 1. Copy the patched Magisk (or KernelSU) **boot.img** to platform tools folder in your laptop or PC. You can rename the patched image for your own convenience. 
 
 2. Open a Command Window from inside platform tools folder. As follows: -
-![image](https://raw.githubusercontent.com/Angxddeep/All-in-one-guide/main/docs/images/miflash.png)
-![image](https://raw.githubusercontent.com/Angxddeep/All-in-one-guide/main/docs/images/miflashcmd.png)
+![image](/img/images/miflash.png)
+![image](/img/images/miflashcmd.png)
 
 
 

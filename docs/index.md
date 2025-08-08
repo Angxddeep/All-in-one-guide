@@ -14,9 +14,7 @@ Many things have been taken from old guides and I have just updated those and ma
 ## Click here to continue:
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Angxddeep/All-in-one-guide/main/docs/images/arrow.png" width="300" height="300">
-
+  <img src="/img/images/arrow.png" width="300" height="300" />
 </p>
 
 
